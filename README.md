@@ -1,4 +1,4 @@
-# Relatorio
+# Relatório
 
 - 2.2.2. Navegação básica
 
